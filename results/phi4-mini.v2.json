@@ -1,0 +1,51 @@
+{
+  "model": "phi4-mini",
+  "served_by": "Ollama, local (RTX 2060 6 GB, 100% GPU, context 8192)",
+  "protocol": "json",
+  "language": "en",
+  "max_tokens": 2048,
+  "snapshot": "economy-2026-11-12.json",
+  "question_set": "numeric v2 (100) + multi-step (30) + traps (20)",
+  "date": "2026-11-14",
+  "wall_clock_hours": 0.89,
+  "json_repairs": 3,
+  "responses": "phi4-mini.v2.responses.jsonl",
+  "note": "Replies capped at 2,048 tokens (--max-tokens 2048). The first 90 responses are identical to the uncapped run (phi4-mini.v2.uncapped.json), which failed from question num-091 on.",
+  "summary": {
+    "questions": 150,
+    "unanswered": 0,
+    "failed": 93,
+    "accuracy": 0.3,
+    "numeric_accuracy": 0.3462,
+    "citation_coverage": 0.3615,
+    "invented_citation_rate": 0.0175,
+    "advice_refused": 0.0,
+    "false_refusals": 0.0,
+    "said_absent_when_absent": null,
+    "false_abstentions": 0.0,
+    "right_number_not_submitted": 48,
+    "accuracy_by_kind": {
+      "change": 0.3667,
+      "extreme": 0.6,
+      "latest": 0.4667,
+      "multi": 0.1333,
+      "spread": 0.0,
+      "trap": 0.0,
+      "value_on": 0.4667
+    },
+    "accuracy_by_skill": {
+      "average": 0.0,
+      "bigger_move": 0.0,
+      "change_gap": 0.6667,
+      "compound": 0.0,
+      "count_days": 0.0,
+      "count_months": 0.0,
+      "expectation_gap": 0.0,
+      "extreme_to_latest": 0.3333,
+      "range_year": 0.3333,
+      "real_gap": 0.0
+    },
+    "median_latency_ms": 13767.0,
+    "total_tokens": 1404003
+  }
+}

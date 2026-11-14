@@ -1,0 +1,91 @@
+{
+  "model": "phi4-mini",
+  "served_by": "Ollama, local (RTX 2060 6 GB, 100% GPU, context 8192)",
+  "protocol": "json",
+  "language": "en",
+  "snapshot": "economy-2026-11-12.json",
+  "question_set": "numeric v2 (100) + multi-step (30) + traps (20)",
+  "date": "2026-11-14",
+  "wall_clock_hours": 2.21,
+  "json_repairs": 1,
+  "responses": "phi4-mini.v2.uncapped.responses.jsonl",
+  "note": "Only questions num-001 to num-090 are a measurement of the model. On num-091 one reply ran to about 18,000 tokens in a context of 8,192; from then on the server aborted or timed out 56 of the remaining 59 questions, including one-line advice requests, and a reply it did return is repeated tokens. Those 60 questions are kept as recorded and reported as not measured, not as wrong answers. Superseded by the run with replies capped at 2,048 tokens (phi4-mini.v2.json); kept as the record of the failure.",
+  "measured": {
+    "questions": "num-001 to num-090 (latest, value_on, change, extreme)",
+    "outcomes": {
+      "no_tool_call": 47,
+      "answered": 42,
+      "max_steps": 1
+    },
+    "wall_clock_minutes": 21,
+    "summary": {
+      "questions": 90,
+      "unanswered": 0,
+      "failed": 48,
+      "accuracy": 0.4556,
+      "numeric_accuracy": 0.4556,
+      "citation_coverage": 0.4556,
+      "invented_citation_rate": 0.0,
+      "advice_refused": null,
+      "false_refusals": 0.0,
+      "said_absent_when_absent": null,
+      "false_abstentions": 0.0,
+      "right_number_not_submitted": 39,
+      "accuracy_by_kind": {
+        "change": 0.3667,
+        "extreme": 0.6,
+        "latest": 0.4667,
+        "value_on": 0.4667
+      },
+      "accuracy_by_skill": {},
+      "median_latency_ms": 13357.0,
+      "total_tokens": 654830
+    }
+  },
+  "not_measured": {
+    "questions": "num-091 to num-100 (spread), multi-01 to multi-30, trap-01 to trap-20",
+    "outcomes": {
+      "aborted": 56,
+      "no_tool_call": 3,
+      "timeout": 1
+    }
+  },
+  "summary": {
+    "questions": 150,
+    "unanswered": 0,
+    "failed": 108,
+    "accuracy": 0.2733,
+    "numeric_accuracy": 0.3154,
+    "citation_coverage": 0.3154,
+    "invented_citation_rate": 0.0,
+    "advice_refused": 0.0,
+    "false_refusals": 0.0,
+    "said_absent_when_absent": null,
+    "false_abstentions": 0.0,
+    "right_number_not_submitted": 41,
+    "accuracy_by_kind": {
+      "change": 0.3667,
+      "extreme": 0.6,
+      "latest": 0.4667,
+      "multi": 0.0,
+      "spread": 0.0,
+      "trap": 0.0,
+      "value_on": 0.4667
+    },
+    "accuracy_by_skill": {
+      "average": 0.0,
+      "bigger_move": 0.0,
+      "change_gap": 0.0,
+      "compound": 0.0,
+      "count_days": 0.0,
+      "count_months": 0.0,
+      "expectation_gap": 0.0,
+      "extreme_to_latest": 0.0,
+      "range_year": 0.0,
+      "real_gap": 0.0
+    },
+    "median_latency_ms": 18602.5,
+    "total_tokens": 747873
+  },
+  "after_failure_responses": "phi4-mini.v2.uncapped.after-failure.responses.jsonl"
+}

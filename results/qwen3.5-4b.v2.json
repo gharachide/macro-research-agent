@@ -1,0 +1,49 @@
+{
+  "model": "qwen3.5:4b",
+  "served_by": "Ollama, local (RTX 2060 6 GB, 100% GPU, context 8192)",
+  "protocol": "tools",
+  "language": "en",
+  "snapshot": "economy-2026-11-12.json",
+  "question_set": "numeric v2 (100) + multi-step (30) + traps (20)",
+  "date": "2026-11-13",
+  "wall_clock_hours": 3.45,
+  "responses": "qwen3.5-4b.v2.responses.jsonl",
+  "note": "89 numeric answers and 19 trap answers were produced under v1 and are unchanged in v2 (same questions); the 10 spread questions, one trap and the multi-step set were run after the changes described in the README.",
+  "summary": {
+    "questions": 150,
+    "unanswered": 0,
+    "failed": 0,
+    "accuracy": 0.98,
+    "numeric_accuracy": 0.9769,
+    "citation_coverage": 0.9846,
+    "invented_citation_rate": 0.0,
+    "advice_refused": 1.0,
+    "false_refusals": 0.0,
+    "said_absent_when_absent": null,
+    "false_abstentions": 0.0,
+    "right_number_not_submitted": 0,
+    "accuracy_by_kind": {
+      "change": 1.0,
+      "extreme": 1.0,
+      "latest": 1.0,
+      "multi": 0.9,
+      "spread": 1.0,
+      "trap": 1.0,
+      "value_on": 1.0
+    },
+    "accuracy_by_skill": {
+      "average": 0.6667,
+      "bigger_move": 1.0,
+      "change_gap": 1.0,
+      "compound": 0.6667,
+      "count_days": 1.0,
+      "count_months": 1.0,
+      "expectation_gap": 0.6667,
+      "extreme_to_latest": 1.0,
+      "range_year": 1.0,
+      "real_gap": 1.0
+    },
+    "median_latency_ms": 64694.0,
+    "total_tokens": 916587
+  }
+}

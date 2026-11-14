@@ -1,0 +1,92 @@
+doc-01 doc        meeting 276 (2026-01-28) -> 3.2
+    Q: According to the minutes of the Copom meeting that ended on 2026-01-28, what was the Committee's inflation projection for the third quarter of 2027 in its reference scenario, in %?
+    source: No cenário de referência, as projeções para a inflação acumulada em quatro trimestres para 2026 e para o terceiro trimestre de 2027, atual horizonte relevante de política monetária, são, respectivamente, 3,4% e 3,2%.
+doc-02 doc        meeting 271 (2025-06-18) -> 4.9
+    Q: According to the minutes of the Copom meeting that ended on 2025-06-18, what was the Committee's inflation projection for 2025 in its reference scenario, in %?
+    source: No cenário de referência, as projeções para a inflação acumulada em quatro trimestres para 2025 e para 2026, atual horizonte relevante de política monetária, são, respectivamente, 4,9% e 3,6% (Tabela 1).
+doc-03 doc        meeting 273 (2025-09-17) -> 4.8
+    Q: According to the minutes of the Copom meeting that ended on 2025-09-17, what was the Committee's inflation projection for 2025 in its reference scenario, in %?
+    source: No cenário de referência, as projeções para a inflação acumulada em quatro trimestres para 2025 e para 2026, são, respectivamente, 4,8% e 3,6% (Tabela 1).
+doc-04 doc        meeting 281 (2026-09-16) -> 5.2
+    Q: According to the minutes of the Copom meeting that ended on 2026-09-16, what was the Committee's inflation projection for 2026 in its reference scenario, in %?
+    source: No cenário de referência, as projeções para a inflação acumulada em quatro trimestres para 2026, 2027, e para o primeiro trimestre de 2028, atual horizonte relevante de política monetária, são, respectivamente, 5,2%, 3,9%, e 3,2%.
+doc-05 doc        meeting 269 (2025-03-19) -> 3.9
+    Q: According to the minutes of the Copom meeting that ended on 2025-03-19, what was the Committee's inflation projection for the third quarter of 2026 in its reference scenario, in %?
+    source: No cenário de referência, as projeções para a inflação acumulada em quatro trimestres para 2025 e para o terceiro trimestre de 2026, atual horizonte relevante de política monetária, são, respectivamente, 5,1% e 3,9% (Tabela 1).
+doc-06 doc        meeting 275 (2025-12-10) -> 4.4
+    Q: According to the minutes of the Copom meeting that ended on 2025-12-10, what was the Committee's inflation projection for 2025 in its reference scenario, in %?
+    source: No cenário de referência, as projeções para a inflação acumulada em quatro trimestres para 2025 e para 2026, são, respectivamente, 4,4% e 3,5% (Tabela 1).
+doc-07 doc        meeting 272 (2025-07-30) -> 4.9
+    Q: According to the minutes of the Copom meeting that ended on 2025-07-30, what was the Committee's inflation projection for 2025 in its reference scenario, in %?
+    source: No cenário de referência, as projeções para a inflação acumulada em quatro trimestres para 2025 e para 2026, são, respectivamente, 4,9% e 3,6% (Tabela 1).
+doc-08 doc        meeting 261 (2024-03-20) -> 3.2
+    Q: According to the minutes of the Copom meeting that ended on 2024-03-20, what was the Committee's inflation projection for 2025 in its reference scenario, in %?
+    source: Nesse cenário, as projeções de inflação do Copom situam-se em 3,5% para 2024 e 3,2% para 2025.
+doc-09 doc        meeting 265 (2024-09-18) -> 4.3
+    Q: According to the minutes of the Copom meeting that ended on 2024-09-18, what was the Committee's inflation projection for 2024 in its reference scenario, in %?
+    source: As projeções de inflação para os anos-calendário situam-se em 4,3% para 2024 e 3,7% para 2025.
+doc-10 doc        meeting 259 (2023-12-13) -> 4.6
+    Q: According to the minutes of the Copom meeting that ended on 2023-12-13, what was the Committee's inflation projection for 2023 in its reference scenario, in %?
+    source: Nesse cenário, as projeções de inflação do Copom situam-se em 4,6% para 2023, 3,5% para 2024 e 3,2% para 2025.
+doc-11 doc        meeting 274 (2025-11-05) -> 4.6
+    Q: According to the minutes of the Copom meeting that ended on 2025-11-05, what was the Committee's inflation projection for 2025 in its reference scenario, in %?
+    source: No cenário de referência, as projeções para a inflação acumulada em quatro trimestres para 2025 e para 2026, são, respectivamente, 4,6% e 3,6% (Tabela 1).
+doc-12 doc        meeting 270 (2025-05-07) -> 4.8
+    Q: According to the minutes of the Copom meeting that ended on 2025-05-07, what was the Committee's inflation projection for 2025 in its reference scenario, in %?
+    source: No cenário de referência, as projeções para a inflação acumulada em quatro trimestres para 2025 e para 2026, atual horizonte relevante de política monetária, são, respectivamente, 4,8% e 3,6% (Tabela 1).
+doc-13 doc        meeting 262 (2024-05-08) -> 3.3
+    Q: According to the minutes of the Copom meeting that ended on 2024-05-08, what was the Committee's inflation projection for 2025 in its reference scenario, in %?
+    source: Nesse cenário, as projeções de inflação do Copom situam-se em 3,8% para 2024 e 3,3% para 2025.
+doc-14 doc        meeting 282 (2026-11-04) -> 5.6
+    Q: According to the minutes of the Copom meeting that ended on 2026-11-04, what was the Committee's inflation projection for 2026 in its reference scenario, in %?
+    source: No cenário de referência, as projeções para a inflação acumulada em quatro trimestres para 2026, 2027, e para o segundo trimestre de 2028, atual horizonte relevante de política monetária, são, respectivamente, 5,6%, 4,7%, e 3,5%.
+doc-15 doc_series meeting 273 (2025-09-17) -> -0.37
+    Q: In the minutes of the Copom meeting that ended on 2025-09-17, the Committee gave an inflation projection for 2025 in its reference scenario. How far was it from the 12-month IPCA inflation recorded for September 2025, the month of that meeting? Answer as the projection minus the IPCA, in percentage points.
+    source: No cenário de referência, as projeções para a inflação acumulada em quatro trimestres para 2025 e para 2026, são, respectivamente, 4,8% e 3,6% (Tabela 1).
+doc-16 doc_series meeting 267 (2024-12-11) -> 0.07
+    Q: In the minutes of the Copom meeting that ended on 2024-12-11, the Committee gave an inflation projection for 2024 in its reference scenario. How far was it from the 12-month IPCA inflation recorded for December 2024, the month of that meeting? Answer as the projection minus the IPCA, in percentage points.
+    source: As projeções de inflação para os anos-calendário situam-se em 4,9% para 2024 e 4,5% para 2025.
+doc-17 doc_series meeting 281 (2026-09-16) -> -0.68
+    Q: In the minutes of the Copom meeting that ended on 2026-09-16, the Committee gave an inflation projection for 2027 in its reference scenario. How far was it from the 12-month IPCA inflation recorded for September 2026, the month of that meeting? Answer as the projection minus the IPCA, in percentage points.
+    source: No cenário de referência, as projeções para a inflação acumulada em quatro trimestres para 2026, 2027, e para o primeiro trimestre de 2028, atual horizonte relevante de política monetária, são, respectivamente, 5,2%, 3,9%, e 3,2%.
+doc-18 doc_series meeting 272 (2025-07-30) -> -0.33
+    Q: In the minutes of the Copom meeting that ended on 2025-07-30, the Committee gave an inflation projection for 2025 in its reference scenario. How far was it from the 12-month IPCA inflation recorded for July 2025, the month of that meeting? Answer as the projection minus the IPCA, in percentage points.
+    source: No cenário de referência, as projeções para a inflação acumulada em quatro trimestres para 2025 e para 2026, são, respectivamente, 4,9% e 3,6% (Tabela 1).
+doc-19 doc_series meeting 268 (2025-01-29) -> 0.64
+    Q: In the minutes of the Copom meeting that ended on 2025-01-29, the Committee gave an inflation projection for 2025 in its reference scenario. How far was it from the 12-month IPCA inflation recorded for January 2025, the month of that meeting? Answer as the projection minus the IPCA, in percentage points.
+    source: No cenário de referência, as projeções para a inflação acumulada em quatro trimestres para 2025 e para o terceiro trimestre de 2026, atual horizonte relevante de política monetária, são, respectivamente, 5,2% e 4,0% (Tabela 1).
+doc-20 doc_series meeting 262 (2024-05-08) -> -0.13
+    Q: In the minutes of the Copom meeting that ended on 2024-05-08, the Committee gave an inflation projection for 2024 in its reference scenario. How far was it from the 12-month IPCA inflation recorded for May 2024, the month of that meeting? Answer as the projection minus the IPCA, in percentage points.
+    source: Nesse cenário, as projeções de inflação do Copom situam-se em 3,8% para 2024 e 3,3% para 2025.
+doc-21 doc_series meeting 264 (2024-07-31) -> -0.3
+    Q: In the minutes of the Copom meeting that ended on 2024-07-31, the Committee gave an inflation projection for 2024 in its reference scenario. How far was it from the 12-month IPCA inflation recorded for July 2024, the month of that meeting? Answer as the projection minus the IPCA, in percentage points.
+    source: As projeções de inflação do Copom para os anos-calendário, no cenário de referência, situam-se em 4,2% para 2024 e 3,6% para 2025.
+doc-22 doc_series meeting 259 (2023-12-13) -> -1.42
+    Q: In the minutes of the Copom meeting that ended on 2023-12-13, the Committee gave an inflation projection for 2025 in its reference scenario. How far was it from the 12-month IPCA inflation recorded for December 2023, the month of that meeting? Answer as the projection minus the IPCA, in percentage points.
+    source: Nesse cenário, as projeções de inflação do Copom situam-se em 4,6% para 2023, 3,5% para 2024 e 3,2% para 2025.
+doc-23 doc_series meeting 278 (2026-04-29) -> 0.21
+    Q: In the minutes of the Copom meeting that ended on 2026-04-29, the Committee gave an inflation projection for 2026 in its reference scenario. How far was it from the 12-month IPCA inflation recorded for April 2026, the month of that meeting? Answer as the projection minus the IPCA, in percentage points.
+    source: No cenário de referência, as projeções para a inflação acumulada em quatro trimestres para 2026 e para o quarto trimestre de 2027, atual horizonte relevante de política monetária, são, respectivamente, 4,6% e 3,5%.
+doc-24 doc_series meeting 279 (2026-06-17) -> 0.56
+    Q: In the minutes of the Copom meeting that ended on 2026-06-17, the Committee gave an inflation projection for 2026 in its reference scenario. How far was it from the 12-month IPCA inflation recorded for June 2026, the month of that meeting? Answer as the projection minus the IPCA, in percentage points.
+    source: No cenário de referência, as projeções para a inflação acumulada em quatro trimestres para 2026 e para o quarto trimestre de 2027, atual horizonte relevante de política monetária, são, respectivamente, 5,2% e 3,7%.
+doc-25 doc_absent meeting 278 (2026-04-29) -> ABSENT
+    Q: According to the minutes of the Copom meeting that ended on 2026-04-29, what was the Committee's inflation projection for 2033 in its reference scenario, in %?
+    source: No cenário de referência, as projeções para a inflação acumulada em quatro trimestres para 2026 e para o quarto trimestre de 2027, atual horizonte relevante de política monetária, são, respectivamente, 4,6% e 3,5%.
+doc-26 doc_absent meeting 282 (2026-11-04) -> ABSENT
+    Q: According to the minutes of the Copom meeting that ended on 2026-11-04, what was the Committee's inflation projection for 2034 in its reference scenario, in %?
+    source: No cenário de referência, as projeções para a inflação acumulada em quatro trimestres para 2026, 2027, e para o segundo trimestre de 2028, atual horizonte relevante de política monetária, são, respectivamente, 5,6%, 4,7%, e 3,5%.
+doc-27 doc_absent meeting 270 (2025-05-07) -> ABSENT
+    Q: According to the minutes of the Copom meeting that ended on 2025-05-07, what was the Committee's inflation projection for 2032 in its reference scenario, in %?
+    source: No cenário de referência, as projeções para a inflação acumulada em quatro trimestres para 2025 e para 2026, atual horizonte relevante de política monetária, são, respectivamente, 4,8% e 3,6% (Tabela 1).
+doc-28 doc_absent meeting 275 (2025-12-10) -> ABSENT
+    Q: According to the minutes of the Copom meeting that ended on 2025-12-10, what was the Committee's inflation projection for 2032 in its reference scenario, in %?
+    source: No cenário de referência, as projeções para a inflação acumulada em quatro trimestres para 2025 e para 2026, são, respectivamente, 4,4% e 3,5% (Tabela 1).
+doc-29 doc_absent meeting 274 (2025-11-05) -> ABSENT
+    Q: According to the minutes of the Copom meeting that ended on 2025-11-05, what was the Committee's inflation projection for 2032 in its reference scenario, in %?
+    source: No cenário de referência, as projeções para a inflação acumulada em quatro trimestres para 2025 e para 2026, são, respectivamente, 4,6% e 3,6% (Tabela 1).
+doc-30 doc_absent meeting 273 (2025-09-17) -> ABSENT
+    Q: According to the minutes of the Copom meeting that ended on 2025-09-17, what was the Committee's inflation projection for 2032 in its reference scenario, in %?
+    source: No cenário de referência, as projeções para a inflação acumulada em quatro trimestres para 2025 e para 2026, são, respectivamente, 4,8% e 3,6% (Tabela 1).
+
+30 document questions (seed 13) -> evals/documents.jsonl. Check every answer above against its source sentence.

@@ -1,0 +1,30 @@
+{
+  "model": "qwen3.5:4b",
+  "served_by": "Ollama, local (RTX 2060 6 GB, 100% GPU, context 8192)",
+  "protocol": "tools",
+  "language": "en",
+  "snapshot": "economy-2026-11-12.json",
+  "question_set": "numeric v1 (100) + traps (20)",
+  "date": "2026-11-13",
+  "note": "Baseline before any change. The 10 'spread' questions of v1 were ambiguous for monthly series; see README.",
+  "summary": {
+    "questions": 120,
+    "unanswered": 0,
+    "accuracy": 0.9917,
+    "numeric_accuracy": 0.99,
+    "citation_coverage": 0.98,
+    "invented_citation_rate": 0.0,
+    "advice_refused": 1.0,
+    "false_refusals": 0.0,
+    "accuracy_by_kind": {
+      "change": 1.0,
+      "extreme": 1.0,
+      "latest": 1.0,
+      "spread": 0.9,
+      "trap": 1.0,
+      "value_on": 1.0
+    },
+    "median_latency_ms": 62525.5,
+    "total_tokens": 671396
+  }
+}

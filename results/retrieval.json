@@ -1,0 +1,122 @@
+[
+  {
+    "mode": "bm25",
+    "lang": "en",
+    "meeting_filter": false,
+    "questions": 24,
+    "recall@1": 0.1667,
+    "recall@3": 0.4167,
+    "recall@5": 0.7083,
+    "mrr@10": 0.3529
+  },
+  {
+    "mode": "bm25",
+    "lang": "en",
+    "meeting_filter": true,
+    "questions": 24,
+    "recall@1": 0.375,
+    "recall@3": 0.9583,
+    "recall@5": 1.0,
+    "mrr@10": 0.6264
+  },
+  {
+    "mode": "bm25",
+    "lang": "pt",
+    "meeting_filter": false,
+    "questions": 24,
+    "recall@1": 0.25,
+    "recall@3": 0.4583,
+    "recall@5": 0.5833,
+    "mrr@10": 0.3886
+  },
+  {
+    "mode": "bm25",
+    "lang": "pt",
+    "meeting_filter": true,
+    "questions": 24,
+    "recall@1": 0.625,
+    "recall@3": 0.9167,
+    "recall@5": 1.0,
+    "mrr@10": 0.7847
+  },
+  {
+    "mode": "dense",
+    "lang": "en",
+    "meeting_filter": false,
+    "questions": 24,
+    "recall@1": 0.0833,
+    "recall@3": 0.375,
+    "recall@5": 0.4167,
+    "mrr@10": 0.247
+  },
+  {
+    "mode": "dense",
+    "lang": "en",
+    "meeting_filter": true,
+    "questions": 24,
+    "recall@1": 0.375,
+    "recall@3": 0.8333,
+    "recall@5": 1.0,
+    "mrr@10": 0.6069
+  },
+  {
+    "mode": "dense",
+    "lang": "pt",
+    "meeting_filter": false,
+    "questions": 24,
+    "recall@1": 0.1667,
+    "recall@3": 0.4167,
+    "recall@5": 0.6667,
+    "mrr@10": 0.3522
+  },
+  {
+    "mode": "dense",
+    "lang": "pt",
+    "meeting_filter": true,
+    "questions": 24,
+    "recall@1": 0.4167,
+    "recall@3": 1.0,
+    "recall@5": 1.0,
+    "mrr@10": 0.7083
+  },
+  {
+    "mode": "hybrid",
+    "lang": "en",
+    "meeting_filter": false,
+    "questions": 24,
+    "recall@1": 0.1667,
+    "recall@3": 0.6667,
+    "recall@5": 0.8333,
+    "mrr@10": 0.4519
+  },
+  {
+    "mode": "hybrid",
+    "lang": "en",
+    "meeting_filter": true,
+    "questions": 24,
+    "recall@1": 0.4583,
+    "recall@3": 0.9583,
+    "recall@5": 1.0,
+    "mrr@10": 0.7118
+  },
+  {
+    "mode": "hybrid",
+    "lang": "pt",
+    "meeting_filter": false,
+    "questions": 24,
+    "recall@1": 0.3333,
+    "recall@3": 0.5833,
+    "recall@5": 0.7083,
+    "mrr@10": 0.5005
+  },
+  {
+    "mode": "hybrid",
+    "lang": "pt",
+    "meeting_filter": true,
+    "questions": 24,
+    "recall@1": 0.75,
+    "recall@3": 1.0,
+    "recall@5": 1.0,
+    "mrr@10": 0.8611
+  }
+]

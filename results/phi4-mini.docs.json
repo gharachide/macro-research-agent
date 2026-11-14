@@ -1,0 +1,37 @@
+{
+  "model": "phi4-mini",
+  "served_by": "Ollama, local (RTX 2060 6 GB)",
+  "protocol": "json",
+  "language": "en",
+  "retriever": "hybrid (BM25 + embeddinggemma, reciprocal rank fusion)",
+  "snapshot": "economy-2026-11-12.json",
+  "minutes": "data/minutes/corpus.jsonl (24 minutes, 553 paragraphs)",
+  "question_set": "documents (30)",
+  "date": "2026-11-14",
+  "wall_clock_minutes": 13,
+  "json_repairs": 9,
+  "responses": "phi4-mini.docs.responses.jsonl",
+  "note": "JSON protocol with closing-brace repair; native tool calling failed (see phi4-mini.docs.native-tools)",
+  "summary": {
+    "questions": 30,
+    "unanswered": 0,
+    "failed": 20,
+    "accuracy": 0.1333,
+    "numeric_accuracy": 0.1667,
+    "citation_coverage": 0.1667,
+    "invented_citation_rate": 0.0,
+    "advice_refused": null,
+    "false_refusals": 0.0,
+    "said_absent_when_absent": 0.0,
+    "false_abstentions": 0.0,
+    "right_number_not_submitted": 2,
+    "accuracy_by_kind": {
+      "doc": 0.2857,
+      "doc_absent": 0.0,
+      "doc_series": 0.0
+    },
+    "accuracy_by_skill": {},
+    "median_latency_ms": 18346.5,
+    "total_tokens": 401976
+  }
+}
